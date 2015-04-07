@@ -1,2 +1,5 @@
 # hello-world
-learning the usual way
+
+Paul here,
+
+Following the instructions to learn to use GitHub
